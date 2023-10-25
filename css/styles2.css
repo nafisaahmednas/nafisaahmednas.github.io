@@ -95,6 +95,10 @@
   }
 }
 
+html {
+  background-color: var(--bs-body-bg);
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
